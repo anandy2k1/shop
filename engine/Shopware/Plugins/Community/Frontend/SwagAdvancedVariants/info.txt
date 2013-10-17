@@ -1,0 +1,5 @@
+Dieses Plugin bietet Ihnen nicht nur die Möglichkeit den normalen Variantenwechsel durch eine Box zu ersetzen,
+die die einzelnen Varianten separat anzeigt, sondern auch Konfigurator-Artikel optisch schöner darzustellen.
+Dieses Plugin ist speziell für Shops entwickelt, welche die Varianten als Größen-/Farbenauswahl verwenden.
+Dazu bietet dieses Plugin die Möglichkeit zur Zeit nicht verfügbare Varianten optisch zu markieren und zusätzlich ein Tooltip bei den Variantenartikeln anzuzeigen,
+der die Basisinformationen der einzelnen Variante beinhaltet.
